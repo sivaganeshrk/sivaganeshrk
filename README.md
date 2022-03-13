@@ -6,7 +6,7 @@
 ```javascript
 const sivaganeshrk = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C"],
+    code: ["Javascript","Typescript", "Python", "C"],
     askMeAbout: ["backend dev","web dev", "app dev", "tech"],
     technologies: {
         backEnd: {
