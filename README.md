@@ -44,7 +44,9 @@ const sivaganeshrk = {
 <p align="center"<a href="#"><img alt="Siva Ganesh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sivaganeshrk&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 
 <br>
+
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
