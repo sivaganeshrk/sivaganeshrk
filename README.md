@@ -12,7 +12,7 @@ const sivaganeshrk = {
         backEnd: {
             js: ["Node", "Express","Loopback"],
         },
-	frontEnd: ["React.js","React Native"]
+	frontEnd: ["React.js","React Native"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "postgres","elasticSearch","redis"],
         misc: ["Firebase", "Socket.IO", "selenium",
