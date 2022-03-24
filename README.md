@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I+am+Siva+Ganesh;Welcome+to+my+profile;Over+4+years+of+programming+exprience;Always+learning+new+things;A+Full+Stack+developer+form+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B%2C+I+am+Siva+Ganesh;Ask+me+about+Software+Craftsmanship+&+Development;Welcome+to+my+profile;Over+4+years+of+programming+exprience;Always+learning+new+things;A+Full+Stack+developer+form+India)](https://git.io/typing-svg)
 
 
 <p align="left"> <a href="https://twitter.com/sivaganeshrk" target="blank"><img src="https://img.shields.io/twitter/follow/sivaganeshrk?logo=twitter&style=for-the-badge" alt="sivaganeshrk" /></a> </p>
