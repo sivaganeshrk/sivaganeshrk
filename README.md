@@ -15,8 +15,6 @@ const sivaganeshrk = {
 	frontEnd: ["React.js","React Native"],
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "postgres","elasticSearch","redis"],
-        misc: ["Firebase", "Socket.IO", "selenium",
-         "open-cv", "php", "SuiteApp"]
     },
     architecture: ["event-driven", "microservice", 
     "Single page applications"],
