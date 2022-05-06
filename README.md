@@ -45,7 +45,7 @@ const sivaganeshrk = {
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-526%20Thousand%20lines%20of%20code-blue)
 
@@ -90,15 +90,13 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       ████████████████████░░░░░   83.42% 
-SQL                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58%
+SQL                      1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 12 mins       ████████████████████░░░░░   83.42% 
-DataGrip                 26 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58%
+DataGrip                 1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.0%
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -115,5 +113,5 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 01:47:08 UTC
+ Last Updated on 06/05/2022 01:28:48 UTC
 <!--END_SECTION:waka-->
