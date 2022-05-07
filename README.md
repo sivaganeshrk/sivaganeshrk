@@ -90,13 +90,13 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,5 +113,5 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 01:28:48 UTC
+ Last Updated on 07/05/2022 01:27:00 UTC
 <!--END_SECTION:waka-->
