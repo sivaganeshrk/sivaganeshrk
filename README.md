@@ -45,6 +45,8 @@ const sivaganeshrk = {
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-526%20Thousand%20lines%20of%20code-blue)
@@ -53,7 +55,7 @@ const sivaganeshrk = {
 
 > 🏆 138 Contributions in the Year 2022
  > 
-> 📦 38.1 kB Used in GitHub's Storage 
+> 📦 38.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,5 +115,5 @@ C++                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 01:27:00 UTC
+ Last Updated on 08/05/2022 01:42:45 UTC
 <!--END_SECTION:waka-->
