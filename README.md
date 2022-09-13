@@ -13,7 +13,7 @@ const sivaganeshrk = {
             js: ["Node", "Express","Loopback"],
         },
 	frontEnd: ["React.js","React Native"],
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx","kubernetes"],
         databases: ["mongo", "MySql", "postgres","elasticSearch","redis"],
     },
     architecture: ["event-driven", "microservice", 
